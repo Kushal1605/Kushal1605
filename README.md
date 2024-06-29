@@ -1,11 +1,13 @@
 <div>
     <div align="center">
-        <a href="https://github.com/SkMishra77"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&pause=500&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kushal+Gupta+Mishra%2C;A+Backend+Developer%2C;A+Front-end+Learner%2C;And++A+Tech+Enthusiast..." alt="Typing SVG" /></a>
+        <a href="https://github.com/Kushal1605"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&pause=500&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kushal+Gupta%2C;A+Frontend+Developer%2C;A+Backend+Developer%2C;And++Tech+Enthusiast..." alt="Typing SVG"  height="60"/></a>
     </div>
     <div align="center">
-    <a href="https://www.linkedin.com/in/kushal1605/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="37" height="35" style="margin-right: 10px;" /></a>
-    <a href="mailto:kushalgupta1605@gmail.com"><img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" width="37" height="35" style="margin-right: 10px;" /></a>
-    <a href="https://t.me/sk_mishr"><img src="https://i.pinimg.com/originals/31/2a/f9/312af9235aadad69655688eaee97eabf.png" width="35" height="35" style="margin-right: 10px;" /></a>
+    <a href="https://www.linkedin.com/in/kushal1605/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="50" height="50" style="margin-right: 10px;" /></a>
+    <a href="mailto:kushalgupta1605@gmail.com"><img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" width="50" height="50" style="margin-right: 10px;" /></a>
+    <a href="https://t.me/kushal1605"><img src="https://i.pinimg.com/originals/31/2a/f9/312af9235aadad69655688eaee97eabf.png" width="50" height="50" style="margin-right: 10px;" /></a>
+    <a href="https://instagram.com/_kushal.05_"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="50" height="50" style="margin-right: 10px;" /></a>
+
 </div>
 
 - 🔭 I’m currently working on **Django, Socket.io, React... etc.**
@@ -18,10 +20,10 @@
 
 <h3 align="center">Profiles</h3>
 <p align="center">
-<a href="https://www.codechef.com/users/kushal1605" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=LnZMjt9rZC3d&format=png&color=000000" alt="kushal1605" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/2101640100151_cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="2101640100151_cs" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kushal1605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kushal1605" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kushal1605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kushal1605" height="30" width="40" /></a>
+    <a href="https://www.codechef.com/users/kushal1605" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=LnZMjt9rZC3d&format=png&color=000000" alt="kushal1605" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/2101640100151_cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="2101640100151_cs" height="30" width="40" /></a>
+    <a href="https://codeforces.com/profile/kushal1605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kushal1605" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/kushal1605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kushal1605" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
