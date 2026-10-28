@@ -18,6 +18,9 @@
 
 - 🤝 I am currently open for **Internship Opportunities and Open Source Projects**
 
+### Open Source Contributions
+[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
+
 <h2 align="center">Profiles</h2>
 <p align="center">
     <a href="https://www.codechef.com/users/kushal1605" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=LnZMjt9rZC3d&format=png&color=000000" alt="kushal1605" height="50" width="47" /></a>
@@ -45,3 +48,5 @@
 
 <hr>
 </div>
+
+
